@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kanu Chiebuka
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python, java and C++
+- 👀 I’m interested in learning new programming language
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any available project to build my skills
 - 📫 You can reach me on +2347089488646 or kanuchiebuka@gmail.com
 
